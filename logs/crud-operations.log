@@ -1,0 +1,7 @@
+2025-08-01 13:43:13.183 [main] INFO  c.w.l.service.LaptopService - Initializing sample laptop data
+2025-08-01 13:43:13.422 [main] DEBUG c.w.l.service.LaptopService - No existing laptops found, creating sample data
+2025-08-01 13:43:13.488 [main] DEBUG c.w.l.service.LaptopService - Created sample laptop: Dell XPS 13
+2025-08-01 13:43:13.490 [main] DEBUG c.w.l.service.LaptopService - Created sample laptop: MacBook Pro 14"
+2025-08-01 13:43:13.497 [main] DEBUG c.w.l.service.LaptopService - Created sample laptop: HP Spectre x360
+2025-08-01 13:43:13.499 [main] DEBUG c.w.l.service.LaptopService - Created sample laptop: ASUS ROG Strix G15
+2025-08-01 13:43:13.502 [main] INFO  c.w.l.service.LaptopService - Successfully initialized 4 sample laptops
